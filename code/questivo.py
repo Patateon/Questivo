@@ -3,7 +3,7 @@ import openai
 import threading
 
 # Initialisation de l'API OpenAI avec votre clé API
-openai.api_key = "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"
+openai.api_key = ""
 
 # Fonction pour interroger l'API GPT via la nouvelle interface ChatCompletion
 def get_answer(question):
