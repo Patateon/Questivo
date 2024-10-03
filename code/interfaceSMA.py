@@ -41,7 +41,7 @@ def valider_reponse():
     global score
     reponse = entree_reponse.get().lower().strip()
     
-    if reponse == current_question["answer"]:
+    if reponse == current_question["answer"] or (reponse == current_question["answer_alternat"] and current_question["answer_alternat"] != ""):
         score += 1
         score_label.config(text=f"Score : {score}")
         messagebox.showinfo("Bonne réponse", f"Bravo ! Vous avez {score} point(s).")
@@ -92,8 +92,14 @@ score_label.place(relx=0.05, rely=0.05)
 # Charger et afficher l'image "Questivo"
 original_image = Image.open("images/Questivo.png")
 photo = ImageTk.PhotoImage(original_image)
+
+# Calculer les coordonnées pour centrer l'image
+image_width = original_image.width
+image_height = original_image.height
+
+# Placer l'image au centre
 image_label = tk.Label(root, image=photo, bg="gray20")
-image_label.place(relx=0.25, rely=0.05)
+image_label.place(relx=(0.5 - (image_width / 800) / 2), rely=0.05, anchor="n")
 
 # Cadre pour la question avec un encadré autour
 question_frame = tk.Frame(root, bg='gray30', bd=3, relief="ridge")

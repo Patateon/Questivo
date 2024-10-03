@@ -2,211 +2,261 @@
     "histoire": [
         {
             "question": "Qui était le premier président des États-Unis ?",
-            "answer": "george washington"
+            "answer": "george washington",
+            "answer_alternat": "washington"
         },
         {
             "question": "En quelle année a eu lieu la Révolution française ?",
-            "answer": "1789"
+            "answer": "1789",
+            "answer_alternat": ""
         },
         {
             "question": "Quel événement a marqué le début de la Seconde Guerre mondiale ?",
-            "answer": "invasion de la pologne"
+            "answer": "invasion de la pologne",
+            "answer_alternat": ""
         },
         {
             "question": "Qui a découvert l'Amérique en 1492 ?",
-            "answer": "christophe colomb"
+            "answer": "christophe colomb",
+            "answer_alternat": "colomb"
         },
         {
             "question": "Quel roi de France a construit le château de Versailles ?",
-            "answer": "louis xiv"
+            "answer": "louis xiv",
+            "answer_alternat": ""
         },
         {
             "question": "En quelle année le mur de Berlin est-il tombé ?",
-            "answer": "1989"
+            "answer": "1989",
+            "answer_alternat": ""
         },
         {
             "question": "Qui était le leader des nazis pendant la Seconde Guerre mondiale ?",
-            "answer": "adolf hitler"
+            "answer": "adolf hitler",
+            "answer_alternat": "hitler"
         },
         {
             "question": "Quel était le nom du célèbre roi de France connu pour sa puissance et ses guerres ?",
-            "answer": "louis xiv"
+            "answer": "louis xiv",
+            "answer_alternat": ""
         },
         {
             "question": "Quel mouvement artistique a émergé au XIXe siècle et a été influencé par l'industrialisation ?",
-            "answer": "le romantisme"
+            "answer": "le romantisme",
+            "answer_alternat": ""
         },
         {
             "question": "Qui a été la première femme à voler seule à travers l'Atlantique ?",
-            "answer": "amelia earhart"
+            "answer": "amelia earhart",
+            "answer_alternat": "earhart"
         }
     ],
     "géographie": [
         {
             "question": "Quelle est la capitale de la France ?",
-            "answer": "paris"
+            "answer": "paris",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le plus grand océan du monde ?",
-            "answer": "pacifique"
+            "answer": "pacifique",
+            "answer_alternat": ""
         },
         {
             "question": "Dans quel pays se trouve la ville de Tokyo ?",
-            "answer": "japon"
+            "answer": "japon",
+            "answer_alternat": ""
         },
         {
             "question": "Quel pays est le plus peuplé du monde ?",
-            "answer": "chine"
+            "answer": "chine",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le plus long fleuve du monde ?",
-            "answer": "nil"
+            "answer": "nil",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la capitale de l'Égypte ?",
-            "answer": "le caire"
+            "answer": "le caire",
+            "answer_alternat": ""
         },
         {
             "question": "Quel continent est également un pays ?",
-            "answer": "australie"
+            "answer": "australie",
+            "answer_alternat": ""
         },
         {
             "question": "Dans quel pays se trouve le mont Everest ?",
-            "answer": "népal"
+            "answer": "népal",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la capitale du Canada ?",
-            "answer": "ottawa"
+            "answer": "ottawa",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le pays le plus au sud du monde ?",
-            "answer": "argentine"
+            "answer": "argentine",
+            "answer_alternat": ""
         }
     ],
     "sciences": [
         {
             "question": "Quelle est la formule chimique de l'eau ?",
-            "answer": "h2o"
+            "answer": "h2o",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est l'organe principal du système circulatoire ?",
-            "answer": "coeur"
+            "answer": "coeur",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle planète est connue comme la planète rouge ?",
-            "answer": "mars"
+            "answer": "mars",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la force qui attire les objets vers la Terre ?",
-            "answer": "gravité"
+            "answer": "gravité",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la période de reproduction des plantes ?",
-            "answer": "pollinisation"
+            "answer": "pollinisation",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
-            "answer": "azote"
+            "answer": "azote",
+            "answer_alternat": ""
         },
         {
             "question": "Comment s'appelle le processus par lequel les plantes produisent leur propre nourriture ?",
-            "answer": "photosynthèse"
+            "answer": "photosynthèse",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est l'élément chimique dont le symbole est O ?",
-            "answer": "oxygène"
+            "answer": "oxygène",
+            "answer_alternat": ""
         },
         {
             "question": "Quel type de cellule transporte l'oxygène dans le sang ?",
-            "answer": "globule rouge"
+            "answer": "globule rouge",
+            "answer_alternat": ""
         },
         {
             "question": "Quel phénomène naturel est causé par la rotation de la Terre ?",
-            "answer": "jour et nuit"
+            "answer": "jour et nuit",
+            "answer_alternat": ""
         }
     ],
     "littérature": [
         {
             "question": "Qui a écrit 'Les Misérables' ?",
-            "answer": "victor hugo"
+            "answer": "victor hugo",
+            "answer_alternat": "hugo"
         },
         {
             "question": "Quel est le personnage principal de 'Roméo et Juliette' ?",
-            "answer": "roméo"
+            "answer": "roméo",
+            "answer_alternat": ""
         },
         {
             "question": "Quel poète est connu pour son recueil 'Les Fleurs du mal' ?",
-            "answer": "charles baudelaire"
+            "answer": "charles baudelaire",
+            "answer_alternat": "baudelaire"
         },
         {
             "question": "Qui a écrit 'Le Petit Prince' ?",
-            "answer": "antoine de saint-exupéry"
+            "answer": "antoine de saint-exupéry",
+            "answer_alternat": ""
         },
         {
             "question": "Quel auteur est connu pour ses contes de fées ?",
-            "answer": "charles perrault"
+            "answer": "charles perrault",
+            "answer_alternat": "perrault"
         },
         {
             "question": "Quel livre commence par 'Il était une fois...' ?",
-            "answer": "un conte de fées"
+            "answer": "un conte de fées",
+            "answer_alternat": ""
         },
         {
             "question": "Qui a écrit 'Germinal' ?",
-            "answer": "émile zola"
+            "answer": "émile zola",
+            "answer_alternat": "zola"
         },
         {
             "question": "Quel roman raconte l'histoire d'un jeune homme orphelin dans la société victorienne ?",
-            "answer": "oliver twist"
+            "answer": "oliver twist",
+            "answer_alternat": "twist"
         },
         {
             "question": "Qui a écrit 'Madame Bovary' ?",
-            "answer": "gustave flaubert"
+            "answer": "gustave flaubert",
+            "answer_alternat": "flaubert"
         },
         {
             "question": "Quel auteur a écrit 'L'Étranger' ?",
-            "answer": "albert camus"
+            "answer": "albert camus",
+            "answer_alternat": "camus"
         }
     ],
     "mathématiques": [
         {
             "question": "Quelle est la somme des angles d'un triangle ?",
-            "answer": "180"
+            "answer": "180",
+            "answer_alternat": "" 
         },
         {
             "question": "Quel est le résultat de 7 x 8 ?",
-            "answer": "56"
+            "answer": "56",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le terme pour une figure à quatre côtés ?",
-            "answer": "quadrilatère"
+            "answer": "quadrilatère",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la valeur de pi (π) approximativement ?",
-            "answer": "3.14"
+            "answer": "3.14",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le carré de 5 ?",
-            "answer": "25"
+            "answer": "25",
+            "answer_alternat": ""
         },
         {
             "question": "Combien de côtés a un hexagone ?",
-            "answer": "6"
+            "answer": "6",
+            "answer_alternat": ""
         },
         {
             "question": "Quel est le nom de l'égalité qui relie les côtés d'un triangle rectangle ?",
-            "answer": "théorème de pythagore"
+            "answer": "théorème de pythagore",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la formule pour calculer l'aire d'un cercle ?",
-            "answer": "πr²"
+            "answer": "πr²",
+            "answer_alternat": "pi r carre"
         },
         {
             "question": "Quel est le terme pour le nombre de fois qu'un nombre est multiplié par lui-même ?",
-            "answer": "exposant"
+            "answer": "exposant",
+            "answer_alternat": ""
         },
         {
             "question": "Quelle est la racine carrée de 144 ?",
-            "answer": "12"
+            "answer": "12",
+            "answer_alternat": ""
         }
     ]
 }
